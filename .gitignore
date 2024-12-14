@@ -1,0 +1,6 @@
+# Ignore all other files except best.pt
+yolov8-env/
+runs/detect/train2/*.jpg
+runs/detect/train2/*.png
+runs/detect/train2/*.csv
+runs/detect/train2/weights/last.pt
